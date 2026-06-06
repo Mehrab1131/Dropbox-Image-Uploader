@@ -1,0 +1,10 @@
+{
+  "id": "dropbox-image-uploader",
+  "name": "Dropbox Image Uploader",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically uploads pasted images to Dropbox and replaces local links.",
+  "author": "Mehrab",
+  "authorUrl": "https://github.com/mehrab1131",
+  "isDesktopOnly": true
+}
